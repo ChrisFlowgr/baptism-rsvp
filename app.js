@@ -1,3 +1,4 @@
+// Updated version - test change
 document.addEventListener('DOMContentLoaded', function() {
     const form = document.getElementById('rsvpForm');
     const guestsGroup = document.getElementById('guestsGroup');

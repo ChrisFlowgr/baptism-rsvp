@@ -32,7 +32,7 @@ document.addEventListener('DOMContentLoaded', function() {
         };
 
         try {
-            const response = await fetch('https://script.google.com/macros/s/AKfycbwgFAW28tlj_rkqE58M2ZSQ0MvgTpoLDmOHHBUQoRn47kiIRZIJ9hMJXNhpElK_yT3n/exec', {  // Replace with the URL you just copied
+            const response = await fetch('https://script.google.com/macros/s/AKfycbyxEYf2SJmBt65eLg-ITvOJCQLwKPdjxViIAI9vWijbuTlcZftu0ka2PBCy3PapE4Pa/exec', {
                 method: 'POST',
                 mode: 'no-cors',
                 headers: {
